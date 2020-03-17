@@ -1,0 +1,4 @@
+keyboard
+mathpix
+clipboard
+PyQt5
