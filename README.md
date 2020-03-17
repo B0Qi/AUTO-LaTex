@@ -8,7 +8,7 @@ git clone https://github.com/B0Qi/AUTO-LaTex.git
 cd AUTO-LaTex
 ```
 
-Then new a config.json file which contains your Api keys of Mathpix.
+Then new a config.json file which contains your Api keys of [Mathpix API service](https://mathpix.com/ocr).
 
 ```json
 {
